@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Мария Волобуева](https://up.htmlacademy.ru/htmlcss/29/user/1353051).
-* Наставник: `Неизвестно`.
+* Наставник: [Карина Карапетян] (https://htmlacademy.ru/profile/karinaweb)
 
 ---
 
